@@ -1989,6 +1989,13 @@ concat-stream@^1.5.2:
     readable-stream "^2.2.2"
     typedarray "^0.0.6"
 
+config@^3.3.4:
+  version "3.3.4"
+  resolved "https://registry.yarnpkg.com/config/-/config-3.3.4.tgz#55811abc2752b38a7b806cbdbc2da79c428312b7"
+  integrity sha512-URO0m6z+rtENGHqtzO7W7C35iF+H9KVe7JJFps+3TIqZEOHl83NqTAgp5h8ah96m4NPQnx08nPBfbtDU+PgjVA==
+  dependencies:
+    json5 "^2.1.1"
+
 consola@^2.15.0:
   version "2.15.0"
   resolved "https://registry.yarnpkg.com/consola/-/consola-2.15.0.tgz#40fc4eefa4d2f8ef2e2806147f056ea207fcc0e9"
@@ -3991,6 +3998,13 @@ json5@^1.0.1:
   integrity sha512-aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==
   dependencies:
     minimist "^1.2.0"
+
+json5@^2.1.1:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.0.tgz#2dfefe720c6ba525d9ebd909950f0515316c89a3"
+  integrity sha512-f+8cldu7X/y7RAJurMEJmdoKXGB/X550w2Nr3tTbezL6RwEE/iMcm+tZnXeoZtKuOq6ft8+CqzEkrIgx1fPoQA==
+  dependencies:
+    minimist "^1.2.5"
 
 jsonfile@^6.0.1:
   version "6.1.0"
